@@ -16,7 +16,7 @@ Master your bakery operations with this C++ file-structure project. Efficiently 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/cake-management.git
+    git clone https://github.com/aTh1ef/Cake-Management-System.git
     ```
 
 2. **Compile and run the program:**
