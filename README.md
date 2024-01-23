@@ -32,7 +32,8 @@ Master your bakery operations with this C++ file-structure project. Efficiently 
 ## Must Read
 
 While this project was developed using Code::Blocks, you can use other IDEs like Visual Studio Code based on your preference.
-**(This project ran seamlessly on Code::Blocks, demonstrating optimal performance and ease of use within this development environment
+
+**This project ran seamlessly on Code::Blocks, demonstrating optimal performance and ease of use within this development environment**
 
 ## Note on Login Credentials
 
